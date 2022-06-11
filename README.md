@@ -1,5 +1,13 @@
-# Metaparcial
+# Autor
+Mateo Michini
 
+# 2021-parcial-de-paragima-logico
+Parcial de Paradigma Logico de la materia "Paradigmas de la programacion"
+
+# Aclaracion
+Este codigo fue programado en el lenguaje  Prolog.
+
+# Consigna: "Metaparcial"
 Los parciales son difíciles de crear, todos los años hay que tener temas nuevos y frescos. Este año usaremos las mentes de nuestros estudiantes para que hagan un programa que nos pueda crear parciales para futuros años.
 
 ![Market](metaparcial.jpg)
